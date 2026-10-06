@@ -1,5 +1,5 @@
 <h2 align="left">Hi My name is Agus Faisal Isro'i</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/1rH4pSGDflkbv8ug9fGIQGTyGKM201vmK/view?usp=drive_link"  />
 
 ###
 
