@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:b30000&height=220&section=header&text=AF%20I&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=%E2%80%9CThis%20profile%20belongs%20to%20Agus%20Faisal%20Isro'i%E2%80%9D&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:b30000&height=220&section=header&text=AFI&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=%E2%80%9CThis%20profile%20belongs%20to%20Agus%20Faisal%20Isro'i%E2%80%9D&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <img src="./mikami-teru-death-note.gif" width="85%" alt="Death Note GIF" />
 
