@@ -1,4 +1,4 @@
-<img src="./giphy.gif" width="85%" alt="Death Note GIF" />
+<img src="./giphy.gif" width="10%" alt="Death Note GIF" />
 
 <br/>
 <br/><br/>
